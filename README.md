@@ -18,6 +18,3 @@
 >1. Baking is an exact science. As long as you follow the recipe's directions closely along with proper measurements and temperatures, it's hard to fail.
 >2. It's a relaxing hobby that doesn't require you to think too much since you're just following directions.
 >3. My favorite part is being able to bake goods for my friends. Everyone has a different preference for sweets, so I can get creative. I can also decorate them to match whichever occation we're celebrating, or just make them look pretty.
-## You can learn to bake too!
-https://www.amazon.com/Martha-Stewarts-Baking-Handbook-Stewart/dp/0307236722/ref=asc_df_0307236722?tag=bingshoppinga-20&linkCode=df0&hvadid=80333120351805&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932709117295&psc=1
-
