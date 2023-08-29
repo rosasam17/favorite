@@ -9,6 +9,8 @@
 >4. baking at the proper temperature
 >5. cooling
 >6. decorating**
+>
+![image](https://github.com/jasminkimm/TestSite/assets/63333003/bf77306d-9957-412b-8f3f-ae04b767142e)
 >   
 >With practice, you can make blueberry muffins, chocolate cookies, cheesecakes.. *the possibilities are **endless**.*
 
