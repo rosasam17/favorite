@@ -3,12 +3,12 @@
 ## Baking Desserts 🍰
 >Baking desserts involves using an oven or other heat source to prepare sweet treats like cakes, cookies, pies, pastries, and more.
 >Key steps include gathering
->**1. ingredients
+>1. ingredients
 >2. prepping baking equipment
 >3. mixing dry and wet ingredients
 >4. baking at the proper temperature
 >5. cooling
->6. decorating**
+>6. decorating
 >
 ![image](https://github.com/jasminkimm/TestSite/assets/63333003/bf77306d-9957-412b-8f3f-ae04b767142e)
 >   
