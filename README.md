@@ -1,7 +1,7 @@
 # My Favorite Hobby
 
 ## Baking Desserts 🍰
->Baking desserts involves using an oven or other heat source to prepare sweet treats like cakes, cookies, pies, pastries, and more.
+>Baking desserts involves using an oven or other heat source to prepare sweet treats like *cakes, cookies, pies, pastries, and more.*
 >Key steps include gathering
 >1. ingredients
 >2. prepping baking equipment
